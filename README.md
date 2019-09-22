@@ -1,7 +1,7 @@
 # Verticle-Extruder
 Vertical variation to the standard Open Extruder.
 
-![Open Extruder](https://github.com/Open-Extrude/Open_extruder-V1/blob/master/Hoper_Base_Mount%20v65.png "Open Extruder")
+![Open Extruder](https://github.com/Open-Extrude/Verticle-Extruder/blob/master/Verticle%20Rig%20v21.png "Open Extruder")
 
 All printable STL files for the Open Extruder. Follow along the build and development process on our instagram page https://instagram.com/konstructs/ Use the hashtag **#openextrude** to show us your builds.
 
