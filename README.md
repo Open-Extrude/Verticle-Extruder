@@ -14,6 +14,7 @@ All printable STL files for the Open Extruder. Follow along the build and develo
 ## Mechanic parts
 - 4 x 2020 x 600m length Aliminium extrusion 
 - Nema 23 or 34 motor
-- 35mm diameter steel theaded tip pipe
+- 25mm diameter (35mm outside) steel theaded tip pipe
+- 20mm diameter (25mm outside) steel theaded tip pipe
 - Heap of M5 nuts & bolts
 
