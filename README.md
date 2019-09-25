@@ -8,7 +8,8 @@ All printable STL files for the Open Extruder. Follow along the build and develo
 ## 3D Printed Parts
 - Hopper
 - Motor mount
-- Pipe clamp x2 left/right
+- 20mm Pipe clamp x2 left/right
+- 25mm Pipe clamp x2 left/right
 - Base plate
 
 ## Mechanic parts
